@@ -1,0 +1,30 @@
+.speech {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+}
+
+.stage_directions{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color:rgb(243, 178, 148);
+    color: black;
+}
+
+.name{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    color: rgb(90, 233, 209);
+}
+ p:hover{
+    background-color: lightcoral;
+    color: rgb(101, 141, 214);
+}
+
+.GUIDO{
+    color: rgb(145, 78, 223);
+}   
+
+.ASCANIO{
+    color:rgb(34, 158, 180);
+}
